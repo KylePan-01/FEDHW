@@ -2,7 +2,7 @@
 
 **This is used for double-blind review.**
 
-**FEDHW** is a optimization framework that can optimize FL algorithms in energy-constrained or latency-constrained situations with hardware-related metrics. In this project, we use the **FedAvg** and the FedOpt as the baseline algorithm, and implement them in **Python 3.11**.
+**FEDHW** is a optimization framework that can optimize FL algorithms in energy-constrained or latency-constrained situations with hardware-related metrics. In this project, we use the **FedAvg** and the **FedOpt** as the baseline algorithm, and implement them in **Python 3.11**.
 
 ## Build environments
 
